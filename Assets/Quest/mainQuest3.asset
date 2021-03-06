@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c063ca5a50aaf74abfef0d9f952b570, type: 3}
+  m_Name: mainQuest3
+  m_EditorClassIdentifier: 
+  isUnlock: 1
+  tittle: Berbudidya III
+  dialouge: '-Buka Kolam sebanyak 4
+
+    -Total Jual Lele Lokal kualitas 70+ 2000 ekor
+
+    -Total Jual Lele Jumbo kualitas 70+ 1000 ekor
+
+    -Total Jual Lele Sangkuriang kualitas 70+ 500 ekor
+
+    -Total panen Lele Lokal 3000 ekor
+
+    -Total panen Lele Jumbo 2500 ekor
+
+    -Total panen Lele Sangkuriang 1500 ekor'
+  gold: 1000
+  exp: 3000

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2029d0f8a3b620f4798498b52c8c231a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fishVCanvas: {instanceID: 0}
+  - viewTexture: {fileID: 8400000, guid: 3760398b8be20794d9e7696cc15dc0a8, type: 2}
+  - fishView: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

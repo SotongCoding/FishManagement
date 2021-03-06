@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37c6696fa9148a54895610558769461d, type: 3}
+  m_Name: NilaGesit
+  m_EditorClassIdentifier: 
+  id: 22
+  jenisIkan: 5
+  jenisAir: 1
+  jenisPakan: 0
+  umur_ikan: 0
+  berat_ikan: 40
+  health: 100
+  kualitas: 100
+  harga_ikan: 0
+  penggunaan_pakan: 3
+  growth_rate: 6.4
+  umur: 120
+  berat: 1000
