@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 2f31ab85f619db144bab589b96e06540
+  - enabled: 1
+    path: Assets/Scenes/Galangan.unity
+    guid: 81c6ecfe0b67a40459080d11a2ac4799
+  - enabled: 1
+    path: Assets/Scenes/Kolam.unity
+    guid: bec67505eadf8314ea9651cc6257b9f0
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 547f6b6ccf484854ab4ef80fe6f2e38b
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: f48c6f7e22e92b5469324891bea0be0d
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 7d5d8c3117600de44baa099a2557e10c
   m_configObjects: {}
